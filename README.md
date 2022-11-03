@@ -2,6 +2,8 @@
 
 TypeScriptでnpmパッケージを作ってみました。
 
+## Installation
+
 ```bash
 npm install @tekihei2317/my-calculator
 ```
@@ -11,7 +13,7 @@ npm install @tekihei2317/my-calculator
 ```ts
 import { add } from "@tekihei2317/my-calculator";
 
-console.log(add(3, 5)) // 8
+console.log(add(3, 5)); // 8
 ```
 
 ## 参考

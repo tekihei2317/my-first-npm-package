@@ -1,6 +1,6 @@
 {
   "name": "@tekihei2317/my-calculator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Tetsuma Sato <tekihei2317@gmail.com>",
   "license": "MIT",
   "main": "dist/index.js",
