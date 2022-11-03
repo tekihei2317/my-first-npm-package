@@ -1,6 +1,18 @@
 # my-first-npm-package
 
-TypeScriptでnpmパッケージを作ってみます。
+TypeScriptでnpmパッケージを作ってみました。
+
+```bash
+npm install @tekihei2317/my-calculator
+```
+
+## Usage
+
+```ts
+import { add } from "@tekihei2317/my-calculator";
+
+console.log(add(3, 5)) // 8
+```
 
 ## 参考
 
